@@ -1,1 +1,16 @@
-second edit ....This is my first readme file and this will be commited to GIT
+this repo contains sorting parallel algorithms for sorting algorithms
+
+	sorting algorithms :
+
+			Merge Sort
+			Quick Sort
+
+	Programming models :
+			
+			SHMEM (Shared Memory)
+			OpenMP 
+	
+	Quick Sort algorithm used : hyperquick sort
+	Merge Sort algorithm used : parallel merge sort
+
+	I will upload the makefiles soon... these makefiles are for tilera many core architecture
